@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My portfolio and blog on My adventures and other stuff</title>
+    <title>My adventures and other stuff</title>
     <link>http://example.org/</link>
-    <description>Recent content in My portfolio and blog on My adventures and other stuff</description>
+    <description>Recent content on My adventures and other stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Feb 2019 17:02:51 +0100</lastBuildDate>
@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>WritersBlokhut</title>
-      <link>http://example.org/blog/writersblokhut/</link>
-      <pubDate>Sun, 10 Feb 2019 20:53:31 +0100</pubDate>
+      <title>My portfolio and blog</title>
+      <link>http://example.org/</link>
+      <pubDate>Sun, 10 Feb 2019 17:02:51 +0100</pubDate>
       
-      <guid>http://example.org/blog/writersblokhut/</guid>
-      <description>Bad puns</description>
+      <guid>http://example.org/</guid>
+      <description> Welcome! Thanks for visiting my blog! Here can you keep track on my activities :)
+  -- </description>
     </item>
     
   </channel>
