@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-02-10T17:02:51+01:00</lastmod>
+    <loc>http://example.org/post/plantenbakpt1/</loc>
+    <lastmod>2019-02-14T21:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/whyablog/</loc>
+    <lastmod>2019-02-14T21:29:31+01:00</lastmod>
   </url>
   
   <url>
@@ -14,7 +19,13 @@
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2019-02-10T17:02:51+01:00</lastmod>
+    <lastmod>2019-02-14T21:37:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2019-02-14T21:37:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
